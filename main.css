@@ -23,9 +23,9 @@ header{
     flex-direction: column;
     align-items: center;
     max-width: 500px;
-    margin: 0px auto;
+    margin: 30px auto;
     line-height: 1;
-    
+        
 }
 header .head-1,
 header .head-2,
@@ -49,7 +49,7 @@ header .head-3{
 }
 .cards{
     display: grid;
-    margin-top: 60px;
+    margin-top: 50px;
     gap: 35px;
     grid-template-columns: 1fr 1fr 1fr;
     margin-bottom: 90px;
